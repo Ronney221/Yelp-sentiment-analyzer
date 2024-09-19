@@ -94,7 +94,7 @@ Interested in collaborating or learning more about this project? Feel free to re
 
 ---
 
-# Project Demo:
+# Youtube Demo:
 [![Watch the video](https://img.youtube.com/vi/IMiKcVxGFzk/maxresdefault.jpg)](https://www.youtube.com/watch?v=IMiKcVxGFzk)
 
 ---
